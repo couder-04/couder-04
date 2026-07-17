@@ -66,7 +66,7 @@
       <tspan class="key">OS</tspan><tspan class="sep">: ..................... </tspan><tspan class="val" id="os_data">Windows 11, Ubuntu</tspan>
     </text>
     <text x="500" y="108" font-size="14">
-      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">19 years, 7 months, 14 days</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
+      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">19 years, 7 months, 13 days</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
     </text>
     <text x="500" y="132" font-size="14">
       <tspan class="key">Host</tspan><tspan class="sep">: ................... </tspan><tspan class="val" id="host_data">Indian Institute of Technology, Patna</tspan>
@@ -120,10 +120,10 @@
       <tspan class="key">Repos</tspan><tspan class="sep">: .... </tspan><tspan id="repo_data" class="val">19</tspan><tspan class="sep"> {Contributed: </tspan><tspan id="contrib_data" class="val">19</tspan><tspan class="sep">}</tspan><tspan id="contrib_data_dots" class="sep"></tspan><tspan class="sep">  |  </tspan><tspan class="key">Stars</tspan><tspan class="sep">: ....... </tspan><tspan id="star_data" class="val">17</tspan>
     </text>
     <text x="500" y="556" font-size="14">
-      <tspan class="key">Commits</tspan><tspan class="sep">: .............. </tspan><tspan id="commit_data" class="val">115</tspan><tspan class="sep">  |  </tspan><tspan class="key">Followers</tspan><tspan class="sep">: ....... </tspan><tspan id="follower_data" class="val">11</tspan>
+      <tspan class="key">Commits</tspan><tspan class="sep">: .............. </tspan><tspan id="commit_data" class="val">117</tspan><tspan class="sep">  |  </tspan><tspan class="key">Followers</tspan><tspan class="sep">: ....... </tspan><tspan id="follower_data" class="val">11</tspan>
     </text>
     <text x="500" y="588" font-size="14">
-      <tspan class="key">Lines of Code on GitHub</tspan><tspan class="sep">: </tspan><tspan id="loc_data" class="val">589,253</tspan><tspan class="sep"> ( </tspan><tspan id="loc_add" class="val" fill="#28E0C3">1,300,087</tspan><tspan class="sep">, </tspan><tspan id="loc_del" class="val" fill="#ff6b6b">710,834</tspan><tspan class="sep"> )</tspan>
+      <tspan class="key">Lines of Code on GitHub</tspan><tspan class="sep">: </tspan><tspan id="loc_data" class="val">589,281</tspan><tspan class="sep"> ( </tspan><tspan id="loc_add" class="val" fill="#28E0C3">1,300,127</tspan><tspan class="sep">, </tspan><tspan id="loc_del" class="val" fill="#ff6b6b">710,846</tspan><tspan class="sep"> )</tspan>
     </text>
   </g>
 </svg>
