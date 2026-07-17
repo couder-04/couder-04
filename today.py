@@ -27,7 +27,7 @@ except KeyError as e:
     raise SystemExit(f'Missing required environment variable: {e}. Set it in GitHub Secrets or a .env file.') from e
 
 # TODO: set this to your own birth date to power the "uptime" stat
-BIRTHDAY = datetime.datetime(2005, 1, 1)
+BIRTHDAY = datetime.datetime(2006, 12, 4)
 
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
