@@ -1,4 +1,5 @@
-<svg width="1150" height="640" viewBox="0 0 1150 640" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="640" viewBox="0 0 1150 640" font-family="Consolas, 'Courier New', monospace">
   <style>
     .bg     { fill: #f5f7ff; }
     .border { fill: none; stroke: #d7dcf0; stroke-width: 1; }
@@ -65,7 +66,7 @@
       <tspan class="key">OS</tspan><tspan class="sep">: ..................... </tspan><tspan class="val" id="os_data">Windows 11, Ubuntu</tspan>
     </text>
     <text x="500" y="108" font-size="14">
-      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">calculating...</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
+      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">19 years, 7 months, 14 days</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
     </text>
     <text x="500" y="132" font-size="14">
       <tspan class="key">Host</tspan><tspan class="sep">: ................... </tspan><tspan class="val" id="host_data">Indian Institute of Technology, Patna</tspan>
@@ -116,13 +117,13 @@
     <line x1="500" y1="510" x2="1090" y2="510" class="rule"/>
 
     <text x="500" y="532" font-size="14">
-      <tspan class="key">Repos</tspan><tspan class="sep">: .... </tspan><tspan id="repo_data" class="val">0</tspan><tspan class="sep"> {Contributed: </tspan><tspan id="contrib_data" class="val">0</tspan><tspan class="sep">}</tspan><tspan id="contrib_data_dots" class="sep"></tspan><tspan class="sep">  |  </tspan><tspan class="key">Stars</tspan><tspan class="sep">: ....... </tspan><tspan id="star_data" class="val">0</tspan>
+      <tspan class="key">Repos</tspan><tspan class="sep">: .... </tspan><tspan id="repo_data" class="val">19</tspan><tspan class="sep"> {Contributed: </tspan><tspan id="contrib_data" class="val">19</tspan><tspan class="sep">}</tspan><tspan id="contrib_data_dots" class="sep"></tspan><tspan class="sep">  |  </tspan><tspan class="key">Stars</tspan><tspan class="sep">: ....... </tspan><tspan id="star_data" class="val">17</tspan>
     </text>
     <text x="500" y="556" font-size="14">
-      <tspan class="key">Commits</tspan><tspan class="sep">: .............. </tspan><tspan id="commit_data" class="val">0</tspan><tspan class="sep">  |  </tspan><tspan class="key">Followers</tspan><tspan class="sep">: ....... </tspan><tspan id="follower_data" class="val">0</tspan>
+      <tspan class="key">Commits</tspan><tspan class="sep">: .............. </tspan><tspan id="commit_data" class="val">115</tspan><tspan class="sep">  |  </tspan><tspan class="key">Followers</tspan><tspan class="sep">: ....... </tspan><tspan id="follower_data" class="val">11</tspan>
     </text>
     <text x="500" y="588" font-size="14">
-      <tspan class="key">Lines of Code on GitHub</tspan><tspan class="sep">: </tspan><tspan id="loc_data" class="val">0</tspan><tspan class="sep"> ( </tspan><tspan id="loc_add" class="val" fill="#00877a">0++</tspan><tspan class="sep">, </tspan><tspan id="loc_del" class="val" fill="#c0392b">0--</tspan><tspan class="sep"> )</tspan>
+      <tspan class="key">Lines of Code on GitHub</tspan><tspan class="sep">: </tspan><tspan id="loc_data" class="val">589,253</tspan><tspan class="sep"> ( </tspan><tspan id="loc_add" class="val" fill="#00877a">1,300,087</tspan><tspan class="sep">, </tspan><tspan id="loc_del" class="val" fill="#c0392b">710,834</tspan><tspan class="sep"> )</tspan>
     </text>
   </g>
 </svg>
