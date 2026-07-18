@@ -66,7 +66,7 @@
       <tspan class="key">OS</tspan><tspan class="sep">: ..................... </tspan><tspan class="val" id="os_data">Windows 11, Ubuntu</tspan>
     </text>
     <text x="500" y="108" font-size="14">
-      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">19 years, 7 months, 13 days</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
+      <tspan class="key">Uptime</tspan><tspan class="sep">: ................. </tspan><tspan id="uptime_data" class="val">19 years, 7 months, 14 days</tspan><tspan id="uptime_data_dots" class="sep"></tspan>
     </text>
     <text x="500" y="132" font-size="14">
       <tspan class="key">Host</tspan><tspan class="sep">: ................... </tspan><tspan class="val" id="host_data">Indian Institute of Technology, Patna</tspan>
