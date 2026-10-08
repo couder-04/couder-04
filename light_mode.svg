@@ -85,10 +85,10 @@
       <tspan class="key">Languages.ML</tspan><tspan class="sep">: .............. </tspan><tspan class="val">PyTorch, NumPy, scikit-learn</tspan>
     </text>
     <text x="500" y="260" font-size="14">
-      <tspan class="key">Languages.Web</tspan><tspan class="sep">: ............. </tspan><tspan class="val">HTML, CSS, JSON</tspan>
+      <tspan class="key">Languages.Web</tspan><tspan class="sep">: ............. </tspan><tspan class="val">TypeScript, Next.js</tspan>
     </text>
     <text x="500" y="284" font-size="14">
-      <tspan class="key">Frameworks</tspan><tspan class="sep">: ................ </tspan><tspan class="val">React, FastAPI, Flask</tspan>
+      <tspan class="key">Frameworks</tspan><tspan class="sep">: ................ </tspan><tspan class="val">Next.js, FastAPI, React</tspan>
     </text>
 
     <text x="500" y="316" font-size="14">

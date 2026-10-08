@@ -1,18 +1,15 @@
 <a href="https://github.com/couder-04">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Parth Tomar's GitHub Profile README" src="light_mode.svg">
-  </picture>
+  <img alt="Parth Tomar's GitHub Profile README" src="dark_mode.svg">
 </a>
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
@@ -20,11 +17,12 @@
 
 | Project | Description |
 |---|---|
-| [VisionBench](https://github.com/couder-04/VisionBench) | Benchmarking Cat vs. Dog classification across 6 architectures — Logistic Regression, SVM, Custom CNN, ResNet-34, EfficientNet-B0, and ViT-Base |
-| [NeuroSketch](https://github.com/couder-04/NeuroSketch) | End-to-end MNIST digit recognition system built from scratch with NumPy — training pipeline, dashboard, and interactive canvas app |
-| [RepoRelic](https://github.com/couder-04/RepoRelic) | AI-powered developer intelligence platform analyzing repositories via a multi-stage autonomous pipeline |
-| [TranscriptMind](https://github.com/couder-04/TranscriptMind) | NLP-powered transcript summarization turning long-form YouTube transcripts into concise summaries (TextRank, BART, PEGASUS, T5) |
-| [CortexCPP](https://github.com/couder-04/CortexCPP) | Modular deep learning framework in C++ with a custom tensor runtime and CNN architecture construction |
+| [CrossSight](https://github.com/couder-04/CrossSight) | City-wide ANPR intelligence — Indian plate OCR, trajectory reconstruction, traffic analytics, real-time alerts, and a GIS control-room dashboard |
+| [CrossFlow](https://github.com/couder-04/CrossFlow) | City-scale traffic intelligence — ANPR sensing, flow analytics, and fuel-aware adaptive signal control in SUMO |
+| [XtraFlow](https://github.com/couder-04/XtraFlow) | Adaptive fuel-weighted traffic signals in SUMO — pressure by idle fuel class, locked benchmarks, and a YOLO CCTV feasibility demo |
+| [CortexCPP](https://github.com/couder-04/CortexCPP) | Modular deep learning framework in C++ with a custom tensor runtime, CNN construction, and end-to-end training |
+| [circuit-vault](https://github.com/couder-04/circuit-vault) | Protect Logisim `.circ` files with per-circuit finals, Git sync, import, and build-from-prompt support |
+| [NeuralAuth](https://github.com/couder-04/NeuralAuth) | Multi-task deep learning for adaptive transaction authentication — trust, risk, behavioral biometrics, and explainable policy-aware decisions |
 
 ---
 
